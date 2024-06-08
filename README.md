@@ -24,7 +24,8 @@ Committed to continuous learning, I break new technologies and share insights th
 - **[Certified Mobile Pentester](https://secops.group/product/certified-mobile-pentester-cmpen-android/)**             - Issued by SecOps    ![CMPEN](https://img.shields.io/badge/CMPen-red?style=for-the-badge)    
 - **[Certified Network Security Practitioner](https://secops.group/product/certified-network-security-practitioner/)** - Issued by SecOps    ![CNSP](https://img.shields.io/badge/CNSP-red?style=for-the-badge)   
 - **[Certified AppSec Practitioner (CAP)](https://secops.group/product/certified-application-security-practitioner/)** - Issued by SecOps    ![CAP](https://img.shields.io/badge/CAP-red?style=for-the-badge) 
-- **[Azure AZ-900](https://secops.group/product/certified-mobile-pentester-cmpen-android/)**                           - Issued by Microsoft ![az-900](https://img.shields.io/badge/AZ--900-blue?style=for-the-badge)    
+- **[Azure AZ-900](https://secops.group/product/certified-mobile-pentester-cmpen-android/)**                           - Issued by Microsoft ![az-900](https://img.shields.io/badge/AZ--900-blue?style=for-the-badge)
+- **[Azure SC-900](https://www.credly.com/badges/7b57393b-912d-42f3-a12e-2243ecc68b54)**                              - Issued by Microsoft ![sc-900](https://img.shields.io/badge/SC--900-blue?style=for-the-badge)   
 
 ## 📂 Write-ups
 
@@ -37,6 +38,7 @@ Committed to continuous learning, I break new technologies and share insights th
 - ### [Hack Story: Discovering Critical Vulnerabilities and Saving Millions](https://www.linkedin.com/pulse/story-apps-broken-security-sahad-bnu-abid-thangal?trk=public_post_feed-article-content)
 
 - ### [Exploiting Misconfigured Firebase Database](https://www.linkedin.com/pulse/misconfigured-firebase-database-sahad-bnu-abid-thangal/?trackingId=%2F9Hz7P98R6OB8%2F1qymJ44A%3D%3D)
+ 
 - ### [Exploiting SSRF in EC2 Instances to Compromise AWS Metadata Service](https://www.linkedin.com/pulse/exploiting-ssrf-ec2-instance-abuse-aws-metadata-bnu-abid-thangal?trk=portfolio_article-card_title)
   
    
