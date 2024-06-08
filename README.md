@@ -1,4 +1,3 @@
-# profile-temp
 ## 💫 About Me
 Hi, I'm Sahad, a passionate  Application Security professional specializing in VAPT for Web, Mobile, API,Thick Client and Infrastructure. 
 Committed to continuous learning, I break new technologies and share insights through AppSec write-ups.
