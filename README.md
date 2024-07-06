@@ -20,7 +20,7 @@ Committed to continuous learning, I break new technologies and share insights th
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash&logoSize=auto)
 
 ## 🎓 Certifications
-
+- **[Certified AppSec Pentester](https://secops.group/product/certified-appsec-pentester/)**             - Issued by SecOps    ![CAPen](https://img.shields.io/badge/CAPen-red?style=for-the-badge)
 - **[Certified Mobile Pentester](https://secops.group/product/certified-mobile-pentester-cmpen-android/)**             - Issued by SecOps    ![CMPEN](https://img.shields.io/badge/CMPen-red?style=for-the-badge)    
 - **[Certified Network Security Practitioner](https://secops.group/product/certified-network-security-practitioner/)** - Issued by SecOps    ![CNSP](https://img.shields.io/badge/CNSP-red?style=for-the-badge)   
 - **[Certified AppSec Practitioner (CAP)](https://secops.group/product/certified-application-security-practitioner/)** - Issued by SecOps    ![CAP](https://img.shields.io/badge/CAP-red?style=for-the-badge) 
